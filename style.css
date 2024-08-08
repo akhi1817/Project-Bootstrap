@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.background{
+    width: 100vw;
+    height: 100vh;
+    background-color:brown;
+    filter: blur(8px);
+}
+.box{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.search-box{
+    width: 380px;
+    margin-left:20px ;
+
+
+}
+.home-heading{
+   position: absolute;
+   margin-top: 230px;
+   margin-left: 130px;
+   z-index: 1;
+}
+/* about us */
+.aboutus-box{
+    margin-top: 100px;
+}
+/* cards */
+.main-card{
+    background-color: bisque;
+}
